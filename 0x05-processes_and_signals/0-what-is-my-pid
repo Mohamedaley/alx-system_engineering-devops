@@ -1,0 +1,4 @@
+#!/bin/bash
+# $$ contains the current bash process id
+
+echo $$

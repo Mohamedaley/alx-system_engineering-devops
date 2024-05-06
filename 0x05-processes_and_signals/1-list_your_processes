@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# listing process use -> ps
+
+ps -auxf

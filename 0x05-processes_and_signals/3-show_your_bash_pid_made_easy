@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#listing all processes containing bash word without using ps
+
+pgrep bash -l

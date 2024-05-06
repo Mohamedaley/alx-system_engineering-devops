@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#to list only bash process use grep piped command but pgrep for process grep
+
+ps - auxf | pgrep bash

@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
 #to list only bash process use grep piped command but pgrep for process grep
+#shellchek disable=SC2009
+#the line above for disabling grep error cuz we have to use pgreb instead
 
-ps -auxf | pgrep bash
+ps -auxf | grep bash

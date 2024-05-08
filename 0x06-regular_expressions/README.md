@@ -9,4 +9,6 @@ Tip-> when there is a task that require specific string or number we have to spe
 1-- 5 beginning_and_end
 2-- 6-phone_number
 
+the last file/task has a good idea take a look!
+
 

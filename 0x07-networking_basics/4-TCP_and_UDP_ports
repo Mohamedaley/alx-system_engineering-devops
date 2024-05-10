@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#the netstat command display the sockets(ip + port)
+#-l for listening sessions -program to display the pid of the runnig program
+netstat -lp

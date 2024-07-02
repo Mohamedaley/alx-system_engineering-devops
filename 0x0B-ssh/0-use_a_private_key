@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Connecting to the remote server using ssh key
 
 REMOTE_Key="54.144.135.183"

@@ -1,0 +1,6 @@
+#!/bin/bash
+# Connecting to the remote server using ssh key
+
+REMOTE_Key="54.144.135.183"
+
+ssh -i ~/.ssh/school ubuntu@REMOTE_Key
